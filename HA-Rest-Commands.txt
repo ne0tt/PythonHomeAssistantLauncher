@@ -1,0 +1,24 @@
+rest_command:
+  launch_arch_night_light:
+    url: "http://YOUR-IP:1204/arch-night-light"
+    method: POST
+    headers:
+      Authorization: "YOUR SECRET KEY"
+
+  launch_arch_toggle_theme:
+    url: "http://YOUR-IP:1204/arch-toggle-theme"
+    method: POST
+    headers:
+      Authorization: "YOUR SECRET KEY"
+
+  launch_arch_shut_down:
+    url: "http://YOUR-IP:1204/arch-shut-down"
+    method: POST
+    headers:
+      Authorization: "YOUR SECRET KEY"
+
+  launch_new_browser:
+    url: "http://YOUR-IP:1204/new-browser"
+    method: POST
+    headers:
+      Authorization: "YOUR SECRET KEY"

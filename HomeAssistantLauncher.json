@@ -1,0 +1,9 @@
+{
+    "port": 1204,
+    "host_ip": "YOUR IP",
+    "allowed_hosts": ["127.0.0.1", "HOME ASSISTANT IP"],
+    "/arch-night-light": "/path/to/hyprshade.sh",
+    "/arch-toggle-theme": "/path/to/themetoggle.sh",
+    "/arch-shut-down": "hyprlock"
+}
+
