@@ -30,7 +30,7 @@ It is locked down so only IP addresses you specify can access and run commands.
 
 Setup...
 
-Install linux, create a python venv
+Install python, create a python venv (optional but reccomended)
 run the virtual enviro
 pip install flask
 pip install dotenv
