@@ -42,10 +42,15 @@ Create a file called .env in the same dir as HomeAsistantLauncher.py
 Add the line SECRET_KEY=YourSecretKey
 
 Configure HomeAssitantLauncher.json with:
+
 The port you want flask to run on
+
 The IP of the machine you wish to control
+
 IP's of machines that are allowed access (Your local host for text and Your Home Assitant IP)
+
 a URL and the full path to the thing you want to run.
+
 
 When you first run Home AssitantLauncher.py it will generate a file called:
 HA-Rest-Commands.txt that can be pasted into yout ome Assistant Configuration file
