@@ -11,7 +11,7 @@ I now have my Linux machine (I use Arch BTW) changes the daytime theme from blue
 It's Pretty neat....
 
 What were my requirements?
-Security
+Security and
 Ease of Configuration.
 
 I currently have this running in a python venv
