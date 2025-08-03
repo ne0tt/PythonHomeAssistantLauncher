@@ -21,7 +21,7 @@ Packages used :
     dotenv (to pull a secret key)
 
 How does this work?
-Basically you run a light weight web server on your machine, You add a url that you wish to use and a script or shell command that you wish to run on your llocal machine when the URL is accessed.
+Basically you run a light weight web server on your machine, You add a url that you wish to use and a script or shell command that you wish to run on your local machine when the URL is accessed.
 
 It uses a POST method and expects a header bearer (matching the SECRET_KEY in your .env file)
 Home Assistant uses the rest_commands in your HA config,  posts to the url whch in turn runs things on your machine.
