@@ -14,9 +14,10 @@ What were my requirements?
 Security and
 Ease of Configuration.
 
-I currently have this running in a python venv
-Packages used 
-    flask
+I currently have this running in a python venv.
+
+Packages used :
+    flask AND
     dotenv (to pull a secret key)
 
 How does this work?
