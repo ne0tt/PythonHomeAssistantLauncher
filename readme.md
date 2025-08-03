@@ -34,6 +34,7 @@ Install python, create a python venv (optional but reccomended)
 run the virtual enviro
 
 pip install flask
+
 pip install dotenv
 
 Create a file called .env in the same dir as HomeAsistantLauncher.py
