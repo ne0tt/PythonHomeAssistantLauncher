@@ -54,7 +54,8 @@ Set up a script or automation that calls your URL in your Configuration.
 
 ---
 
-The Future - Il move the Bearer string from HA Config
+The Future - 
+I'll move the Bearer string from HA Config
 Might create a .service file so I can run this all the time.
 
 You need to be familiar with Home Assitant and a little bit of python.
