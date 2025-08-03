@@ -53,7 +53,8 @@ a URL and the full path to the thing you want to run.
 
 
 When you first run Home AssitantLauncher.py it will generate a file called:
-HA-Rest-Commands.txt that can be pasted into yout ome Assistant Configuration file
+HA-Rest-Commands.txt that can be pasted into your Home Assistant Configuration file
+
 
 Restart Home Assistant (i'd reccomend creating a backup!)
 
