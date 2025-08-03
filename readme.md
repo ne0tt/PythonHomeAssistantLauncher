@@ -1,5 +1,7 @@
 This project came about after watching an Excellent video by Paul Hibbert Home Tech about controlling your computer using Home Assistant.
 
+If you're reading this Paul, Thank you for the inspiration!
+
 Open apps or run things on your computer by accessing a URL?
 
 The Result?
